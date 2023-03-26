@@ -1,4 +1,4 @@
-# congress-trade-tracker
+# Congress Trade Tracker
 
 The STOCK (Stop Trading On Congressional Knowledge) Act was passed in 2012 by President Obama. 
 
